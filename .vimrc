@@ -11,4 +11,5 @@ Plugin 'gmarik/vundle'
 Plugin 'gregsexton/MatchTag'
 runtime macros/matchit.vim
 Plugin 'python_match.vim'
-
+Plugin 'rkulla/pydiction'
+Plugin 'davidhalter/jedi-vim'
